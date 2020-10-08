@@ -647,7 +647,7 @@ F 3 "" H 5500 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP11
+L mobo-rescue:Jumper_NO_Small-Device JP11
 U 1 1 5F1876E6
 P 5750 1800
 F 0 "JP11" H 5750 1985 50  0000 C CNN
@@ -658,7 +658,7 @@ F 3 "~" H 5750 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP12
+L mobo-rescue:Jumper_NO_Small-Device JP12
 U 1 1 5F1878C4
 P 5750 2100
 F 0 "JP12" H 5750 2285 50  0000 C CNN

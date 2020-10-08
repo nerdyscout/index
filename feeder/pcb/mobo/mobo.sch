@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega328-AU U1
+L mobo-rescue:ATmega328-AU-MCU_Microchip_ATmega U1
 U 1 1 5DC9E191
 P 3600 2600
 F 0 "U1" H 3150 1250 50  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "" H 4750 6950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AVR-ISP-6 J3
+L mobo-rescue:AVR-ISP-6-Connector J3
 U 1 1 5DC9EF1D
 P 1050 2400
 F 0 "J3" H 770 2496 50  0000 R CNN
@@ -80,7 +80,7 @@ F 3 "" H 1600 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1_Small C1
+L mobo-rescue:CP1_Small-Device C1
 U 1 1 5DC9F2AC
 P 2550 2350
 F 0 "C1" H 2350 2400 50  0000 L CNN
@@ -506,7 +506,7 @@ Wire Wire Line
 Wire Wire Line
 	2400 1450 2400 1400
 $Comp
-L stephen:VCNT2020 U2
+L mobo-rescue:VCNT2020-stephen U2
 U 1 1 5DEA2AE3
 P 2450 7050
 F 0 "U2" H 2500 7500 50  0000 C CNN
@@ -659,7 +659,7 @@ F 3 "" H 6300 7250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stephen:DRV8838 U3
+L mobo-rescue:DRV8838-stephen U3
 U 1 1 5E357164
 P 9050 1800
 F 0 "U3" H 9050 1527 50  0000 C CNN
@@ -804,7 +804,7 @@ EN
 Text GLabel 4200 3300 2    50   Input ~ 0
 nSLEEP
 $Comp
-L Device:Jumper_NO_Small JP1
+L mobo-rescue:Jumper_NO_Small-Device JP1
 U 1 1 5E3B5CCA
 P 4700 7200
 F 0 "JP1" H 4850 7400 50  0000 C CNN

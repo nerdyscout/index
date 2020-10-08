@@ -80,7 +80,7 @@ F 3 "~" H 900 3000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP10
+L piggyback-rescue:Jumper_NO_Small-Device JP10
 U 1 1 5E46A459
 P 1100 2600
 F 0 "JP10" V 900 2500 50  0000 L CNN
@@ -91,7 +91,7 @@ F 3 "~" H 1100 2600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP11
+L piggyback-rescue:Jumper_NO_Small-Device JP11
 U 1 1 5E46B27E
 P 1200 2600
 F 0 "JP11" V 1000 2550 50  0000 L CNN
@@ -102,7 +102,7 @@ F 3 "~" H 1200 2600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP12
+L piggyback-rescue:Jumper_NO_Small-Device JP12
 U 1 1 5E46B564
 P 1300 2600
 F 0 "JP12" V 1100 2600 50  0000 L CNN
@@ -244,7 +244,7 @@ F 3 "~" H 900 5850 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP13
+L piggyback-rescue:Jumper_NO_Small-Device JP13
 U 1 1 5E4803DD
 P 1100 5450
 F 0 "JP13" V 900 5350 50  0000 L CNN
@@ -255,7 +255,7 @@ F 3 "~" H 1100 5450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP14
+L piggyback-rescue:Jumper_NO_Small-Device JP14
 U 1 1 5E4803E3
 P 1200 5450
 F 0 "JP14" V 1000 5400 50  0000 L CNN
@@ -266,7 +266,7 @@ F 3 "~" H 1200 5450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP15
+L piggyback-rescue:Jumper_NO_Small-Device JP15
 U 1 1 5E4803E9
 P 1300 5450
 F 0 "JP15" V 1100 5450 50  0000 L CNN
@@ -408,7 +408,7 @@ F 3 "~" H 3650 3050 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP16
+L piggyback-rescue:Jumper_NO_Small-Device JP16
 U 1 1 5E486B50
 P 3850 2650
 F 0 "JP16" V 3650 2550 50  0000 L CNN
@@ -419,7 +419,7 @@ F 3 "~" H 3850 2650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP18
+L piggyback-rescue:Jumper_NO_Small-Device JP18
 U 1 1 5E486B56
 P 3950 2650
 F 0 "JP18" V 3750 2600 50  0000 L CNN
@@ -430,7 +430,7 @@ F 3 "~" H 3950 2650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP20
+L piggyback-rescue:Jumper_NO_Small-Device JP20
 U 1 1 5E486B5C
 P 4050 2650
 F 0 "JP20" V 3850 2650 50  0000 L CNN
@@ -572,7 +572,7 @@ F 3 "~" H 3650 5850 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP17
+L piggyback-rescue:Jumper_NO_Small-Device JP17
 U 1 1 5E48D97B
 P 3850 5450
 F 0 "JP17" V 3650 5350 50  0000 L CNN
@@ -583,7 +583,7 @@ F 3 "~" H 3850 5450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP19
+L piggyback-rescue:Jumper_NO_Small-Device JP19
 U 1 1 5E48D981
 P 3950 5450
 F 0 "JP19" V 3750 5400 50  0000 L CNN
@@ -594,7 +594,7 @@ F 3 "~" H 3950 5450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP21
+L piggyback-rescue:Jumper_NO_Small-Device JP21
 U 1 1 5E48D987
 P 4050 5450
 F 0 "JP21" V 3850 5450 50  0000 L CNN

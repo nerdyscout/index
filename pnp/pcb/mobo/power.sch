@@ -49,7 +49,7 @@ F 3 "" H 3100 1250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C7
+L mobo-rescue:CP-Device C7
 U 1 1 5EB1E64F
 P 2050 1400
 F 0 "C7" H 2168 1446 50  0000 L CNN
@@ -232,7 +232,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 1300 4850 1300
 $Comp
-L Device:CP C13
+L mobo-rescue:CP-Device C13
 U 1 1 5EB31705
 P 6800 1650
 F 0 "C13" H 6918 1696 50  0000 L CNN
@@ -369,7 +369,7 @@ Wire Wire Line
 Wire Wire Line
 	4600 3500 4750 3500
 $Comp
-L Device:CP C30
+L mobo-rescue:CP-Device C30
 U 1 1 5F115598
 P 5200 3650
 F 0 "C30" H 5318 3696 50  0000 L CNN

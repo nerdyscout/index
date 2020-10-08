@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:USB_B J41
+L mobo-rescue:USB_B-Connector J41
 U 1 1 5EB46257
 P 1150 1450
 F 0 "J41" H 1207 1917 50  0000 C CNN

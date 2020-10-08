@@ -52,7 +52,7 @@ F 3 "" H 2300 5750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP9
+L mobo-rescue:Jumper_NO_Small-Device JP9
 U 1 1 5E406CE8
 P 1350 6950
 F 0 "JP9" H 1350 7000 50  0000 C CNN
@@ -74,7 +74,7 @@ F 3 "~" H 3200 6500 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP8
+L mobo-rescue:Jumper_NO_Small-Device JP8
 U 1 1 5E41359A
 P 1350 6850
 F 0 "JP8" H 1350 6900 50  0000 C CNN
@@ -85,7 +85,7 @@ F 3 "~" H 1350 6850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP7
+L mobo-rescue:Jumper_NO_Small-Device JP7
 U 1 1 5E413783
 P 1350 6750
 F 0 "JP7" H 1350 6800 50  0000 C CNN
@@ -119,7 +119,7 @@ F 3 "" H 2350 1450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP3
+L mobo-rescue:Jumper_NO_Small-Device JP3
 U 1 1 5E418FB7
 P 1450 2650
 F 0 "JP3" H 1450 2700 50  0000 C CNN
@@ -141,7 +141,7 @@ F 3 "~" H 3250 2200 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP2
+L mobo-rescue:Jumper_NO_Small-Device JP2
 U 1 1 5E418FDE
 P 1450 2550
 F 0 "JP2" H 1450 2600 50  0000 C CNN
@@ -152,7 +152,7 @@ F 3 "~" H 1450 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP1
+L mobo-rescue:Jumper_NO_Small-Device JP1
 U 1 1 5E418FE8
 P 1450 2450
 F 0 "JP1" H 1450 2500 50  0000 C CNN
@@ -186,7 +186,7 @@ F 3 "" H 1950 3700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP6
+L mobo-rescue:Jumper_NO_Small-Device JP6
 U 1 1 5E421DFB
 P 1000 4900
 F 0 "JP6" H 1000 4950 50  0000 C CNN
@@ -208,7 +208,7 @@ F 3 "~" H 2850 4450 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP5
+L mobo-rescue:Jumper_NO_Small-Device JP5
 U 1 1 5E421E22
 P 1000 4800
 F 0 "JP5" H 1000 4850 50  0000 C CNN
@@ -219,7 +219,7 @@ F 3 "~" H 1000 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP4
+L mobo-rescue:Jumper_NO_Small-Device JP4
 U 1 1 5E421E2C
 P 1000 4700
 F 0 "JP4" H 1000 4750 50  0000 C CNN
@@ -260,7 +260,7 @@ F 3 "" H 2450 2950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C1
+L mobo-rescue:CP-Device C1
 U 1 1 5E4332EA
 P 750 900
 F 0 "C1" H 868 946 50  0000 L CNN
@@ -293,7 +293,7 @@ F 3 "" H 750 1050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C2
+L mobo-rescue:CP-Device C2
 U 1 1 5E4399B6
 P 1150 900
 F 0 "C2" H 1268 946 50  0000 L CNN
@@ -304,7 +304,7 @@ F 3 "~" H 1150 900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C3
+L mobo-rescue:CP-Device C3
 U 1 1 5E43CEF6
 P 1550 900
 F 0 "C3" H 1668 946 50  0000 L CNN
@@ -374,7 +374,7 @@ F 3 "" H 5300 5750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP30
+L mobo-rescue:Jumper_NO_Small-Device JP30
 U 1 1 5EB0D862
 P 4350 6950
 F 0 "JP30" H 4350 7000 50  0000 C CNN
@@ -396,7 +396,7 @@ F 3 "~" H 6200 6500 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP29
+L mobo-rescue:Jumper_NO_Small-Device JP29
 U 1 1 5EB0D889
 P 4350 6850
 F 0 "JP29" H 4350 6900 50  0000 C CNN
@@ -407,7 +407,7 @@ F 3 "~" H 4350 6850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP28
+L mobo-rescue:Jumper_NO_Small-Device JP28
 U 1 1 5EB0D893
 P 4350 6750
 F 0 "JP28" H 4350 6800 50  0000 C CNN
@@ -441,7 +441,7 @@ F 3 "" H 5250 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP24
+L mobo-rescue:Jumper_NO_Small-Device JP24
 U 1 1 5EB0D8BE
 P 4350 2700
 F 0 "JP24" H 4350 2750 50  0000 C CNN
@@ -463,7 +463,7 @@ F 3 "~" H 6150 2250 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP23
+L mobo-rescue:Jumper_NO_Small-Device JP23
 U 1 1 5EB0D8E5
 P 4350 2600
 F 0 "JP23" H 4350 2650 50  0000 C CNN
@@ -474,7 +474,7 @@ F 3 "~" H 4350 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP22
+L mobo-rescue:Jumper_NO_Small-Device JP22
 U 1 1 5EB0D8EF
 P 4350 2500
 F 0 "JP22" H 4350 2550 50  0000 C CNN
@@ -508,7 +508,7 @@ F 3 "" H 5400 3700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP27
+L mobo-rescue:Jumper_NO_Small-Device JP27
 U 1 1 5EB0D91A
 P 4500 4900
 F 0 "JP27" H 4500 4950 50  0000 C CNN
@@ -530,7 +530,7 @@ F 3 "~" H 6300 4450 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP26
+L mobo-rescue:Jumper_NO_Small-Device JP26
 U 1 1 5EB0D941
 P 4500 4800
 F 0 "JP26" H 4500 4850 50  0000 C CNN
@@ -541,7 +541,7 @@ F 3 "~" H 4500 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP25
+L mobo-rescue:Jumper_NO_Small-Device JP25
 U 1 1 5EB0D94B
 P 4500 4700
 F 0 "JP25" H 4500 4750 50  0000 C CNN
@@ -591,7 +591,7 @@ NoConn ~ 4900 5950
 NoConn ~ 5000 3900
 NoConn ~ 4850 1700
 $Comp
-L Device:CP C4
+L mobo-rescue:CP-Device C4
 U 1 1 5EB78194
 P 2650 900
 F 0 "C4" H 2768 946 50  0000 L CNN
@@ -624,7 +624,7 @@ F 3 "" H 2650 1050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C5
+L mobo-rescue:CP-Device C5
 U 1 1 5EB781A6
 P 3050 900
 F 0 "C5" H 3168 946 50  0000 L CNN
@@ -635,7 +635,7 @@ F 3 "~" H 3050 900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C6
+L mobo-rescue:CP-Device C6
 U 1 1 5EB781AC
 P 3450 900
 F 0 "C6" H 3568 946 50  0000 L CNN

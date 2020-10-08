@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U2
+L piggyback-rescue:ATmega32U4-AU-MCU_Microchip_ATmega U2
 U 1 1 5E3E9AF4
 P 5500 3650
 F 0 "U2" H 5200 3500 50  0000 C CNN
@@ -39,7 +39,7 @@ $EndSheet
 Text Notes 7050 6700 0    50   ~ 0
 Contains main uC, comms to computer, all button interfaces and status LEDs
 $Comp
-L Connector:USB_B_Micro J4
+L piggyback-rescue:USB_B_Micro-Connector J4
 U 1 1 5E44822F
 P 4000 3150
 F 0 "J4" H 3750 3400 50  0000 C CNN
@@ -305,7 +305,7 @@ STEPPER_3_STEP
 Text GLabel 6100 4950 2    50   Input ~ 0
 STEPPER_3_DIR
 $Comp
-L Connector:AVR-ISP-6 J38
+L piggyback-rescue:AVR-ISP-6-Connector J38
 U 1 1 5E434974
 P 2300 3250
 F 0 "J38" H 2021 3346 50  0000 R CNN
