@@ -2,15 +2,15 @@ name: kicad-exports
 
 on:
   push:
-    branches: [master]
-    paths:
-    - '**.sch'
-    - '**.kicad_pcb'
+#    branches: [master]
+#    paths:
+#    - '**.sch'
+#    - '**.kicad_pcb'
   pull_request:
-    branches: [master]
-    paths:
-    - '**.sch'
-    - '**.kicad_pcb'
+#    branches: [master]
+#    paths:
+#    - '**.sch'
+#    - '**.kicad_pcb'
       
 jobs:
     pnp_mobo:
@@ -86,4 +86,3 @@ jobs:
           name: kicad-export
           email: ci@github 
           commit-message: auto update
-
