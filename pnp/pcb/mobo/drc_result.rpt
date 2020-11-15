@@ -1,0 +1,80 @@
+** Drc report for /github/workspace/pnp/pcb/mobo/mobo.kicad_pcb **
+** Created on 2020-11-15 21:32:17 **
+
+** Found 24 DRC errors **
+ErrType(45): Courtyards overlap
+    @(72.390 mm, 16.510 mm): Footprint C6 on F.Cu
+    @(86.360 mm, 10.160 mm): Footprint A1 on F.Cu
+ErrType(45): Courtyards overlap
+    @(7.620 mm, 16.510 mm): Footprint C5 on F.Cu
+    @(21.590 mm, 10.160 mm): Footprint A3 on F.Cu
+ErrType(45): Courtyards overlap
+    @(50.800 mm, 16.510 mm): Footprint C4 on F.Cu
+    @(64.770 mm, 10.160 mm): Footprint A5 on F.Cu
+ErrType(45): Courtyards overlap
+    @(93.980 mm, 16.510 mm): Footprint C3 on F.Cu
+    @(107.950 mm, 10.160 mm): Footprint A6 on F.Cu
+ErrType(45): Courtyards overlap
+    @(29.210 mm, 16.510 mm): Footprint C2 on F.Cu
+    @(43.180 mm, 10.160 mm): Footprint A4 on F.Cu
+ErrType(45): Courtyards overlap
+    @(114.300 mm, 16.637 mm): Footprint C1 on F.Cu
+    @(129.540 mm, 10.160 mm): Footprint A2 on F.Cu
+ErrType(45): Courtyards overlap
+    @(78.740 mm, 16.510 mm): Footprint JP1 on F.Cu
+    @(86.360 mm, 10.160 mm): Footprint A1 on F.Cu
+ErrType(45): Courtyards overlap
+    @(81.915 mm, 16.510 mm): Footprint JP2 on F.Cu
+    @(86.360 mm, 10.160 mm): Footprint A1 on F.Cu
+ErrType(45): Courtyards overlap
+    @(85.090 mm, 16.510 mm): Footprint JP3 on F.Cu
+    @(86.360 mm, 10.160 mm): Footprint A1 on F.Cu
+ErrType(45): Courtyards overlap
+    @(120.904 mm, 19.558 mm): Footprint JP4 on F.Cu
+    @(129.540 mm, 10.160 mm): Footprint A2 on F.Cu
+ErrType(45): Courtyards overlap
+    @(124.079 mm, 19.558 mm): Footprint JP5 on F.Cu
+    @(129.540 mm, 10.160 mm): Footprint A2 on F.Cu
+ErrType(45): Courtyards overlap
+    @(127.254 mm, 19.558 mm): Footprint JP6 on F.Cu
+    @(129.540 mm, 10.160 mm): Footprint A2 on F.Cu
+ErrType(45): Courtyards overlap
+    @(13.970 mm, 16.495 mm): Footprint JP7 on F.Cu
+    @(21.590 mm, 10.160 mm): Footprint A3 on F.Cu
+ErrType(45): Courtyards overlap
+    @(17.145 mm, 16.510 mm): Footprint JP8 on F.Cu
+    @(21.590 mm, 10.160 mm): Footprint A3 on F.Cu
+ErrType(45): Courtyards overlap
+    @(20.320 mm, 16.510 mm): Footprint JP9 on F.Cu
+    @(21.590 mm, 10.160 mm): Footprint A3 on F.Cu
+ErrType(45): Courtyards overlap
+    @(35.560 mm, 16.510 mm): Footprint JP22 on F.Cu
+    @(43.180 mm, 10.160 mm): Footprint A4 on F.Cu
+ErrType(45): Courtyards overlap
+    @(38.735 mm, 16.525 mm): Footprint JP23 on F.Cu
+    @(43.180 mm, 10.160 mm): Footprint A4 on F.Cu
+ErrType(45): Courtyards overlap
+    @(41.910 mm, 16.510 mm): Footprint JP24 on F.Cu
+    @(43.180 mm, 10.160 mm): Footprint A4 on F.Cu
+ErrType(45): Courtyards overlap
+    @(57.150 mm, 16.510 mm): Footprint JP25 on F.Cu
+    @(64.770 mm, 10.160 mm): Footprint A5 on F.Cu
+ErrType(45): Courtyards overlap
+    @(60.325 mm, 16.510 mm): Footprint JP26 on F.Cu
+    @(64.770 mm, 10.160 mm): Footprint A5 on F.Cu
+ErrType(45): Courtyards overlap
+    @(63.500 mm, 16.510 mm): Footprint JP27 on F.Cu
+    @(64.770 mm, 10.160 mm): Footprint A5 on F.Cu
+ErrType(45): Courtyards overlap
+    @(100.330 mm, 16.510 mm): Footprint JP28 on F.Cu
+    @(107.950 mm, 10.160 mm): Footprint A6 on F.Cu
+ErrType(45): Courtyards overlap
+    @(103.505 mm, 16.510 mm): Footprint JP29 on F.Cu
+    @(107.950 mm, 10.160 mm): Footprint A6 on F.Cu
+ErrType(45): Courtyards overlap
+    @(106.680 mm, 16.510 mm): Footprint JP30 on F.Cu
+    @(107.950 mm, 10.160 mm): Footprint A6 on F.Cu
+
+** Found 0 unconnected pads **
+
+** End of Report **

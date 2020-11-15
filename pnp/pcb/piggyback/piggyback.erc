@@ -1,0 +1,31 @@
+ERC report (Sun Nov 15 21:32:08 2020, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(107.95 mm, 115.57 mm): Pin 1 (Power input) of component #PWR0204 is not driven (Net 4).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(49.53 mm, 128.27 mm): Pin 3 (Passive) of component SW1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(59.69 mm, 128.27 mm): Pin 4 (Passive) of component SW1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 110.49 mm): Pin 1 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 97.79 mm): Pin 22 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 72.39 mm): Pin 12 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 95.25 mm): Pin 25 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 100.33 mm): Pin 26 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 102.87 mm): Pin 27 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 77.47 mm): Pin 31 (Bidirectional) of component U2 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(154.94 mm, 107.95 mm): Pin 33 (Bidirectional) of component U2 is unconnected.
+
+***** Sheet /motorControl/
+
+***** Sheet /feederComm/
+
+ ** ERC messages: 11  Errors 0  Warnings 11

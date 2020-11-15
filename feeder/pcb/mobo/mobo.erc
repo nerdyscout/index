@@ -1,0 +1,25 @@
+ERC report (Sun Nov 15 21:32:08 2020, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(69.85 mm, 57.15 mm): Pin 1 (Power input) of component #PWR0103 is not driven (Net 3).
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(106.68 mm, 63.50 mm): Pin 25 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(106.68 mm, 60.96 mm): Pin 24 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(106.68 mm, 58.42 mm): Pin 23 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76.20 mm, 43.18 mm): Pin 22 (Input) of component U1 is unconnected.
+ErrType(8): Global label not connected to any other global label
+    @(76.20 mm, 43.18 mm): Global label 22 is not connected to any other global label.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(76.20 mm, 40.64 mm): Pin 19 (Input) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(106.68 mm, 40.64 mm): Pin 14 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(106.68 mm, 38.10 mm): Pin 13 (Bidirectional) of component U1 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(125.73 mm, 173.99 mm): Pin 1 (Passive) of component SW4 is unconnected.
+
+ ** ERC messages: 10  Errors 0  Warnings 10
